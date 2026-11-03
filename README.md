@@ -58,27 +58,27 @@ Configured to provide internet connectivity to the virtual machines.
 
 ### 1. VirtualBox – Kali Linux Overview
 
-![VirtualBox Kali Overview](screenshots/01-virtualbox-kali-overview.png)
+![VirtualBox Kali Overview](1.jpg)
 
 ### 2. Kali Linux Running
 
-![Kali Linux Running](screenshots/02-kali-linux-running.png)
+![Kali Linux Running](2.jpg)
 
 ### 3. Windows 10 VM Settings
 
-![Windows 10 VM Settings](screenshots/03-windows10-vm-settings.png)
+![Windows 10 VM Settings](3.jpg)
 
 ### 4. Windows 10 Running
 
-![Windows 10 Running](screenshots/04-windows10-running.png)
+![Windows 10 Running](4.jpg)
 
 ### 5. Host-only Network Configuration
 
-![Host-only Network](screenshots/05-host-only-network.png)
+![Host-only Network](5.jpg)
 
 ### 6. NAT Network Configuration
 
-![NAT Network](screenshots/06-nat-network.png)
+![NAT Network](6.jpg)
 
 ---
 
